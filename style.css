@@ -264,19 +264,4 @@
       }
     }
     
-    .last{
-      margin-top: 25px;
-      margin-bottom: 20px;
-       text-align: center;
-      
-       font-weight: 900;
-       font-size: larger;
-    }
-      #name{
-          /* border-style: solid; */
-          border-color: rgb(209, 28, 164);
-          padding:20px;
-          font-size: larger;
-          font-style: italic;
-          text-shadow: 2px 2px 4px plum;
-      }
+   
